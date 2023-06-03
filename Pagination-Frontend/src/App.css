@@ -1,0 +1,11 @@
+.link {
+  text-decoration: none;
+  cursor: pointer;
+
+}
+
+.background{
+  background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-blue-gradient-geometric-flat-business-card-background-picture-image_1070306.jpg  ') ;
+}
